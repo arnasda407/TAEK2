@@ -1,0 +1,6 @@
+1.spurning
+
+Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+
+RAM er tímabundinn vinnsluminnsla fyrir gögn og forrit sem hægt er að nálgast hjá CPU.
+RAM er rokgjarnt minni, sem þýðir að innihaldið er þurrkast í hvert sinn sem tölvan er slökkt.
