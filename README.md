@@ -1,4 +1,4 @@
-1.spurning
+# 1.spurning
 
 Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 
