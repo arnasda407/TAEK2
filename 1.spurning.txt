@@ -42,4 +42,17 @@ Fyrstu hlutirnir sem þú þarft að gera þegar þú velur PSU er að reikna ú
 2. Verd
 Annað sem þú ættir að íhuga þegar þú velur PSU er að ákvarða kostnaðarhámarkið. Almennt er að setja til hliðar á bilinu 10-15% af heildarfjölda kerfisins að byggja upp góðan kostnað á afkastagetu.
 3. Orka
-Þú gætir þurft að íhuga hvernig á að spara orku
+-Þú gætir þurft að íhuga hvernig á að spara orku
+
+6.spurning
+
+Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+
+1. Staðfestu kvörtunina. (Bara til að ganga úr skugga um að það sé í raun vandamál)
+2. Ákveða tengda einkenni. (Leitaðu að öllu sem gæti tengst vandamálinu)
+3. Greinaðu einkennin. (horfðu vandlega á viðkomandi einkenni til að finna sameiginlega orsök)
+4. Einangraðu vandræði. (Leggðu niður niðurstöðurnar til að ganga úr skugga um að þú hafir ákveðið rétt vandamál)
+5. Rétt vandræði. (Gerðu viðgerðina) 
+6. Staðfestu viðgerðina. (Athugaðu að tryggja að viðgerðin sem þú hefur gert hefur leyst vandamálið)
+
+7.spurning
