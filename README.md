@@ -40,11 +40,11 @@ ____________________________
 ____________________________
 
 #### 1. Wattage
-###### Fyrstu hlutirnir sem þú þarft að gera þegar þú velur PSU er að reikna út heildaráhrif sem nauðsynleg eru til að byggja upp.
+##### Fyrstu hlutirnir sem þú þarft að gera þegar þú velur PSU er að reikna út heildaráhrif sem nauðsynleg eru til að byggja upp.
 #### 2. Verd
-###### Annað sem þú ættir að íhuga þegar þú velur PSU er að ákvarða kostnaðarhámarkið. Almennt er að setja til hliðar á bilinu 10-15% af heildarfjölda kerfisins að byggja upp góðan kostnað á afkastagetu.
+##### Annað sem þú ættir að íhuga þegar þú velur PSU er að ákvarða kostnaðarhámarkið. Almennt er að setja til hliðar á bilinu 10-15% af heildarfjölda kerfisins að byggja upp góðan kostnað á afkastagetu.
 #### 3. Orka
-###### Þú gætir þurft að íhuga hvernig á að spara orku
+##### Þú gætir þurft að íhuga hvernig á að spara orku
 
 # Spurning 6
 
