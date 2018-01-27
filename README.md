@@ -87,15 +87,23 @@ Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 
-| **:Einingar:                    |  :Hluti:            | :Verð:**  |  |
-| Inter-Tech CM-35 ATX            | Kassi               | 9.990  kr.|  | 
-| Gigabyte AM4 GA-AX370-Gaming K5 | Móðurborð           | 29.990 kr.|  |
-| 3TB SATA3 Seagate Desktop       | HDD harður diskur   | 19.990 kr.|  |
-| Intel Core I7-7700 Quad Core    | I7 Core             | 46.990 kr.|  | 
-| Thermaltake Riing Silent 12     | Kassaviftur         | 9.990 kr. |  |
-| Seasonic Prime Titanium 1000W   | Aflgjafa            | 49.990 kr.|  |  
-| ADATA 16GB DDR3 1600MHz         | Minni               | 26.990 kr.|  |
-| Lite-On IHAS124-14 DVD+         | DVD Drive           | 4.990 kr. |  |
-|Gigabyte GeForce GTX 1060 OC     | Skjá kort           | 44.990 kr.|  |
-                            Total kronur : 243k Þusund kronur. 
-|______________________________________________________________________|
+| **:Einingar:                    |  :Hluti:            | :Verð:**  |
+
+| Inter-Tech CM-35 ATX            | Kassi               | 9.990  kr.|
+
+| Gigabyte AM4 GA-AX370-Gaming K5 | Móðurborð           | 29.990 kr.|
+
+| 3TB SATA3 Seagate Desktop       | HDD harður diskur   | 19.990 kr.|
+
+| Intel Core I7-7700 Quad Core    | I7 Core             | 46.990 kr.|
+
+| Thermaltake Riing Silent 12     | Kassaviftur         | 9.990 kr. |
+
+| Seasonic Prime Titanium 1000W   | Aflgjafa            | 49.990 kr.| 
+
+| ADATA 16GB DDR3 1600MHz         | Minni               | 26.990 kr.|
+
+| Lite-On IHAS124-14 DVD+         | DVD Drive           | 4.990 kr. |
+
+|Gigabyte GeForce GTX 1060 OC     | Skjá kort           | 44.990 kr.|
+ Total kronur : 243k Þusund kronur.
