@@ -106,4 +106,5 @@ fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann f
 | Lite-On IHAS124-14 DVD+         | DVD Drive           | 4.990 kr. |
 
 |Gigabyte GeForce GTX 1060 OC     | Skjá kort           | 44.990 kr.|
- Total kronur : 243k Þusund kronur.
+ 
+                     Total kronur : 243k Þusund kronur.
